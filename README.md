@@ -33,7 +33,7 @@ This will autoload all the helper functions included within src/helpers.php
 Changelog
 =========
 
-To keep track, please refer to [CHANGELOG.md](https://github.com/jds-ventures/lumen-v7-laravel-helpers/blob/master/CHANGELOG.md).
+To keep track, please refer to [CHANGELOG.md](https://github.com/jds-ventures/lumen-v7-laravel-helpers/blob/v0.1/CHANGELOG.md).
 
 Contributing
 ============
@@ -46,7 +46,7 @@ Contributing
 6. Push to the branch (git push origin my-new-feature).
 7. Create new pull request.
 
-Also please refer to [CONTRIBUTION.md](https://github.com/jds-ventures/lumen-v7-laravel-helpers/blob/master/CONTRIBUTION.md).
+Also please refer to [CONTRIBUTION.md](https://github.com/jds-ventures/lumen-v7-laravel-helpers/blob/v0.1/CONTRIBUTION.md).
 
 License
 =======
