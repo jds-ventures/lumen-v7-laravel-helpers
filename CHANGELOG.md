@@ -6,25 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Types of changes
 
-* **Features** for initial package features.
-* **Added** for new features.
-* **Changed** for changes in existing functionality.
-* **Deprecated** for soon-to-be removed features.
-* **Removed** for now removed features.
-* **Fixed** for any bug fixes.
-* **Security** in case of vulnerabilities.
+* **Initial Commit** base files to begin package.
 
 ## [Unreleased]
 
-## 1.0.0 - [Date]
+## 0.1 - [22/06/2020]
 
-### Features
-### Added
-### Changed
-### Deprecated
-### Removed
-### Fixed
-### Security
-
-
-[Unreleased]: https://github.com/GinoPane/composer-package-template/compare/v1.0.0...HEAD
+### Initial Commit
