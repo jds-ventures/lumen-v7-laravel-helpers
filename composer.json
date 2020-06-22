@@ -59,5 +59,10 @@
         "docs": [
             "@php vendor/bin/phpdoc -d \"src\" -t \"docs\""
         ]
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
     }
 }
