@@ -8,8 +8,8 @@ Adds a popular set of Laravel helper functions into lumen v7.X such as public_pa
 Requirements
 ------------
 
-* PHP >= 7.0;
-* A project running Lumen Framework ^7.x
+* PHP >= 7.3+;
+* A project running Lumen Framework ^7.x;
 
 Features
 --------
@@ -21,7 +21,7 @@ Features
 Installation
 ============
 
-    composer install jds-ventures/lumen-v7-laravel-helpers
+    composer require jds-ventures/lumen-v7-laravel-helpers
     
 This will autoload all the helper functions included within src/helpers.php
 
