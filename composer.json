@@ -1,7 +1,7 @@
 {
-    "name": "gino-pane/composer-package-template",
-    "description": "Basic composer package template for creating other packages.",
-    "homepage": "http://github.com/GinoPane/composer-package-template",
+    "name": "jds-ventures/lumen-v7-laravel-helpers",
+    "description": "Adds a popular set of Laravel helper functions into lumen v7.X",
+    "homepage": "https://github.com/jds-ventures/lumen-v7-laravel-helpers",
     "keywords": [
         "template",
         "composer",
@@ -15,13 +15,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "Jack Salvona",
+            "email": "jack@jds.ventures"
         },
         {
-            "name": "Sergey <Gino Pane> Karavay",
-            "homepage": "http://sergey.karavay.name",
-            "email": "sergey.karavay@gmail.com",
+            "name": "Jack <JDS Ventures> Salvona",
+            "homepage": "https://jds.ventures",
+            "email": "jack@jds.ventures",
             "role": "Developer"
         }
     ],
