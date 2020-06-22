@@ -1,7 +1,7 @@
 Lumen v7 Laravel Helpers
 ============
 
-[![Latest Stable Version](https://github.com/jds-ventures/lumen-v7-laravel-helpers)](https://github.com/jds-ventures/lumen-v7-laravel-helpers)
+[![Latest Stable Version](https://github.com/jds-ventures/lumen-v7-laravel-helpers)](https://github.com/jds-ventures/lumen-v7-laravel-helpers/tree/v0.1)
 
 Adds a popular set of Laravel helper functions into lumen v7.X such as public_path, config_path, mix and more
 
