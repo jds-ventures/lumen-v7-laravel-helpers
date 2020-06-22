@@ -41,9 +41,10 @@
         "phpdocumentor/phpdocumentor" : "^2.0"
     },
     "autoload": {
-        "psr-4": {
-            "GinoPane\\Template\\": "src/"
-        }
+        "psr-4": {},
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "scripts": {
         "test": [
